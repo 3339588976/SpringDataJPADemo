@@ -36,11 +36,6 @@ JPA规范的再次封装抽象，底层还是用Hibernate和JPA实现的
 
 注意:mybatis不是ORM框架，mybatis只是将数据库中的内容映射为实体，并没有将实体映射为数据库中的字段
 
-![img](D:\mytools\YNote\YNoteFile\weixinobU7VjvKWlnafBa2CCuqTRkGHtOw\f4955635114e4c258a8a164b33ca2465\6fa75240-252e-11e8-8c14-19da63913af3.png)
-
-spring.datasource.url=jdbc:mysql://localhost:3306/db_example
-
-spring.datasource.username=springuserspring.datasource.password=ThePassword
 
 扩展：
 
